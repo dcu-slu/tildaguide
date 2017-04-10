@@ -8,14 +8,18 @@ Archivematica
    gallras, i den mån det krävs.
 
 CKAN
-   Den mjukvara som används för att publicera och hämta digital
-   forskningsinformation. Denna information
-   synkroniseras sedan på automatisk väg med e-arkivet som hanteras av
-   Archivematica.
+   Den mjukvara som används dels för att skicka forskningsdata till
+   Archivematica för arkivering, dels för att publicera forskningsdata som
+   arkiverats.
 
 Dataset
    En sammanhållen enhet med forskningsinformation, som kan innehålla
    övergripande metadata tillsammans med en eller flera resurser.
+
+FGS
+   *Förvaltningsgemensamma specifikationer*. Specifikationer för leverans till
+   e-arkiv. Fastslås på nationell nivå av Riksarkivet och kan sedan anpassas av
+   specifika myndigheter.
 
 Metadata
    Data som beskriver andra data. När det gäller forskningsinformation kan
