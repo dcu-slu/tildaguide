@@ -4,12 +4,12 @@ Introduktion till Tilda och e-arkivering
 Allmänt om Tilda
 ----------------
 
-Tilda är ett system för tillgängliggörande och arkivering av forskningsdata
-och data från fortlöpande miljöanalys som är gemensamt för hela SLU. Det är
-möjligt att ladda upp datafiler via webbgränssnitt, ange metadata och spara
-utkast som sedan kan uppdateras innan de skickas för  arkivering och sedan
-publicering. Webbgränssnittet kan sedan dessutom utnyttjas av forskare och
-allmänhet för återsökning och nedladdning av publicerat forskningsmaterial.
+Tilda är ett system för tillgängliggörande och arkivering av forsknings- och
+miljöanalysdata som är gemensamt för hela SLU. Det är möjligt att ladda upp
+datafiler via webbgränssnitt, ange metadata och spara utkast som sedan kan
+uppdateras innan de skickas för  arkivering och sedan publicering.
+Webbgränssnittet kan sedan dessutom utnyttjas av forskare och allmänhet för
+återsökning och nedladdning av publicerat forskningsmaterial.
 
 
 Behovet av publicering och e-arkivering
