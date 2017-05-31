@@ -31,3 +31,6 @@ Quick guide to submitting dataset for archival storage and publishing
    publically available. You may also add a general embargo for all files at
    this step. Accept the terms and click on the green button that says
    ``submit`` to send for review.
+8. When the dataset is reviewed and accepted the DCU will archive your dataset.
+   If you chose to publish the dataset it will be publically available upon
+   acceptance.
