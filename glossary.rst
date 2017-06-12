@@ -1,37 +1,40 @@
-Ordförklaringar
+Glossary
 ===============
 
 Archivematica
-   Den mjukvara som utgör grunden för Tildas e-arkivfunktion och används för
-   att lagra och administrera digital forskningsinformation, så att den går att 
-   komma åt via andra system och förblir tillgänglig i framtiden, eller
-   gallras, i den mån det krävs.
+   Is the software used for Tildas electronic archival function. It is used for
+   storing and administrating digital research information ensuring long-term
+   preservation and accessibility of datasets.
 
 CKAN
-   Den mjukvara som används dels för att skicka forskningsdata till
-   Archivematica för arkivering, dels för att publicera forskningsdata som
-   arkiverats.
+   Is the primary software of Tilda; it is used for submitting, publishing and
+   retrieving research data. Datasets submitted to CKAN are transferred to
+   Archivematica for archival preservation.
 
 Dataset
-   En sammanhållen enhet med forskningsinformation, som kan innehålla
-   övergripande metadata tillsammans med en eller flera resurser.
+   A collection of research information that may contain overarching metadata
+   together with one or several data resources.
 
 FGS
-   *Förvaltningsgemensamma specifikationer*. Specifikationer för leverans till
-   e-arkiv. Fastslås på nationell nivå av Riksarkivet och kan sedan anpassas av
-   specifika myndigheter.
+   *Förvaltningsgemensamma specifikationer* or *Common Specifications (CS)*. Are
+    specifications for transfers to electronic archives. These are established
+    by Riksarkivet (The National Archives of Sweden).
 
 Metadata
-   Data som beskriver andra data. När det gäller forskningsinformation kan
-   metadata innefatta sådant som upphovspersoner, nyckelord, abstract,
-   rättigheter, identifierare (ISBN, DOI etc.) och publiceringsdatum.
+   Are, simply put, data describing data. In the context of research information
+   metadata may describe creators; keywords; abstract; rights information;
+   identifiers (ISBN, DOIs etc.) and so forth. Metadata are vital for data to
+   become reusable and understandable.
 
 OAIS
-   *Open Archival Information System*. En ISO-standard för e-arkiv som bland
-   annat definierar olika funktioner och roller för att leverera, begära ut,
-   administrera och lagra information i ett e-arkiv. Ligger till grund för
-   e-arkiveringen i Tilda och Archivematica.
+   *Open Archival Information System*. An ISO-standard which defines functions
+   and roles for transfer, dissemination, administration and storage of an
+   electronic archive. The model upon which the archival functions of Tilda and
+   Archivematica are based.
 
-Resurs
-   En fil med forskningsinformation (eller länk till forskningsinformation) som
-   ingår i ett dataset.
+Data resource
+   A file or link of research information that is part of a dataset.
+
+DCU
+  Acronym for the Digital Curation Unit which is the primary support unit for
+  publishing and archiving data.

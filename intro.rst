@@ -1,37 +1,35 @@
-Introduktion till Tilda och e-arkivering
+What is Tilda?
 ========================================
 
-Allmänt om Tilda
+Overview
 ----------------
 
-Tilda är ett system för tillgängliggörande och arkivering av forsknings- och
-miljöanalysdata som är gemensamt för hela SLU. Det är möjligt att ladda upp
-datafiler via webbgränssnitt, ange metadata och spara utkast som sedan kan
-uppdateras innan de skickas för  arkivering och sedan publicering.
-Webbgränssnittet kan sedan dessutom utnyttjas av forskare och allmänhet för
-återsökning och nedladdning av publicerat forskningsmaterial.
+Tilda is a publishing and archival tool designed to store and disseminate
+research- and environmental monitoring data produced at SLU. Through the website
+interface it is possible for researchers to upload data, and describe datasets
+with associated metadata. Tilda also features a search function where anyone may
+search and access openly available data produced at the university.
+
+Metadata in Tilda is harvested by other data portals such as OpenAIRE and
+www.oppnadata.se on a regular basis; data registered in Tilda is thereby
+discoverable on several locations. Datasets in Tilda are also supplied a
+persistent and unique identifier ensuring long term discovery and citablity.
 
 
-Behovet av publicering och e-arkivering
+The need for publishing and archiving of research data
 ---------------------------------------
 
-Forskningsmaterial, som upprättas vid ett offentligt universitet som SLU är,
-oavsett format eller medium, allmänna handlingar och måste därför arkiveras
-i enlighet med gällande föreskrifter. Här erbjuder Tilda en lösning genom att
-material med metadata som registrerats i webbgränssnittet och skickats till
-arkivering automatiskt överförs till Archivematica, ett system uppbyggt kring
-internationella standarder för att säkra långsiktigt bevarande av digitalt
-material.
+Research materials, such as research data, produced at public universities are
+considered public records and are therefore subject to mandatory archiving.
+Tilda is designed to support and enable this process by providing archival
+storage in accordance with international standards for long-term preservation of
+digital records.
 
-Ur forskares perspektiv är möjlighet till publicering och arkivering av
-forskningsmaterial värdefullt på flera sätt:
+There are several benefits of publishing and archiving research data for the
+individual researcher as well as for the larger research community:
 
-* Möjlighet till återanvändning och reproduktion av tidigare forskning.
-* Uppfyllande av krav från forskningsfinansiärer och vetenskapliga tidskrifter.
-* Möjlighet att hänvisa till publicerat forskningsmaterial för exempelvis
-  ansökningar.
-
-Tilda ger åtkomst till publicerat forskningsmaterial med hjälp av
-standardiserad programvara som används av många forskningsinsitutioner
-internationellt. Publicerat forskningsmaterial tilldelas automatiskt DOI:er,
-som kan användas för beständiga referenser till materialet.
+* Making data reusable and reviewable.
+* Citable datasets
+*
+*
+*
