@@ -1,8 +1,8 @@
 What is Tilda?
-========================================
+==============
 
 Overview
-----------------
+--------
 
 Tilda is a publishing and archival tool designed to store and disseminate
 research- and environmental monitoring data produced at SLU. Through the website
@@ -17,7 +17,7 @@ persistent and unique identifier ensuring long term discovery and citablity.
 
 
 The need for publishing and archiving of research data
----------------------------------------
+------------------------------------------------------
 
 Research materials, such as research data, produced at public universities are
 considered public records and are therefore subject to mandatory archiving.
